@@ -177,6 +177,10 @@
     {
       "class": "shapeGroup",
       "id": "E1FB68BB-E2FA-49AB-A0C3-946DDEDEFDC7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "44F51808-E58B-4C0E-8D0A-CE6EFA21BD79"
     }
   ],
   "name": "Symbols",

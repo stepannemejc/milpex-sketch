@@ -102,7 +102,7 @@
       "do_objectID": "3832EABB-98C1-4138-A4FA-107E6ED5BBFB",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-LightItalic.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Roboto-LightItalic"
       ]
@@ -532,7 +532,7 @@
       "do_objectID": "F52D1827-725C-4747-BCA7-5ED1D01B16B7",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Bold.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Roboto-Bold"
       ]

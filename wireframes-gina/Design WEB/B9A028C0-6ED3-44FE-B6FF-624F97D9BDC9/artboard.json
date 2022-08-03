@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5551,
+    "height": 7099,
     "width": 1920,
     "x": 2680,
     "y": -253
@@ -212,10 +212,6 @@
     {
       "class": "group",
       "id": "74A27A07-A7E8-4210-853A-3CF6D9331EDE"
-    },
-    {
-      "class": "rectangle",
-      "id": "01609D4E-ADD9-43ED-86E8-E31455B60FBE"
     }
   ],
   "name": "Homepage - Desktop FullHD",
