@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A0CABDC-EB31-4ED2-9764-5E1B70C7CE8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 523,
+    "width": 345,
+    "x": 241,
+    "y": 1019
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "907F1070-4021-43A2-8BAC-3E071C818EE1"
+    },
+    {
+      "class": "text",
+      "id": "6D3FEB33-02E5-4103-9FDB-B4063D4192FE"
+    },
+    {
+      "class": "text",
+      "id": "03F855E4-8E18-4244-8869-382A7C57C99A"
+    },
+    {
+      "class": "text",
+      "id": "36C0DC5B-3412-4BB6-9566-59CD80FD30E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "E421AF3E-4804-474D-9964-AAEA35B0D307"
+    },
+    {
+      "class": "text",
+      "id": "C85954A3-CB18-40F6-B4A3-948F1509104D"
+    },
+    {
+      "class": "group",
+      "id": "B0522630-6432-486D-8D0A-2572BC301070"
+    }
+  ],
+  "name": "Photos Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6504368A-7B70-422A-A532-414B82255F66",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
