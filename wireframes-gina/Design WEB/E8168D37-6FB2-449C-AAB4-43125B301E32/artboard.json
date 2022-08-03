@@ -45,7 +45,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -136,8 +135,8 @@
   ],
   "name": "Colorscheme",
   "nameIsFixed": true,
-  "overlayBackgroundInteraction": 0,
-  "presentationStyle": 0,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

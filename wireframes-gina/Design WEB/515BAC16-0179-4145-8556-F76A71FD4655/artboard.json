@@ -54,7 +54,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -81,12 +80,7 @@
   ],
   "name": "Product page - gallery",
   "nameIsFixed": true,
-  "overlayBackgroundInteraction": 0,
-  "presentationStyle": 0,
-  "prototypeViewport": {
-    "_class": "MSImmutablePrototypeViewport",
-    "name": "Desktop HD",
-    "size": "{1440, 1024}"
+  "presetDictionary": {
   },
   "resizesContent": false,
   "resizingConstraint": 63,
