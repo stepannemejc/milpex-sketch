@@ -1,0 +1,145 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D46F6475-4B5F-45D5-83FB-F6FC617BEF32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 372,
+    "x": 1040,
+    "y": 965
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C893A754-1878-4C80-A308-736B34691811"
+    },
+    {
+      "class": "rectangle",
+      "id": "8151E496-5103-4322-BEF8-D2C1E5E3D06A"
+    },
+    {
+      "class": "shapePath",
+      "id": "32D296A0-763A-4CF1-8FFF-535249823F8D"
+    },
+    {
+      "class": "shapePath",
+      "id": "5ADDEF9F-32AC-43E8-AADE-A8CA9D39170C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A6497324-4873-48C2-94C6-77798EBA9416"
+    },
+    {
+      "class": "shapePath",
+      "id": "B124C29D-35C3-44FB-B6FE-ADC12C622915"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B2C0B7C-4565-4463-BADA-4FB7AA81D516"
+    },
+    {
+      "class": "text",
+      "id": "2754CDA6-C0D6-4B1E-8764-9CD70B332CEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "618EFFB9-87D6-4367-974B-28C6FF4FB6FE"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4083518-DEE8-4C8F-8D5E-C937D0BBFB8D"
+    },
+    {
+      "class": "shapePath",
+      "id": "9AA743C2-FE72-45D3-8E8D-F5BF37DB5670"
+    },
+    {
+      "class": "shapePath",
+      "id": "474C94CD-1900-4FEE-90BE-D94F55CEC9E2"
+    },
+    {
+      "class": "oval",
+      "id": "7380988F-BB0D-4671-A291-DCCBF6024CE8"
+    },
+    {
+      "class": "text",
+      "id": "039F3A39-063A-4E08-AD71-4C42F379C17E"
+    }
+  ],
+  "name": "Postava",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BB0969B8-8451-4FBC-A33F-DF41617F0F63",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

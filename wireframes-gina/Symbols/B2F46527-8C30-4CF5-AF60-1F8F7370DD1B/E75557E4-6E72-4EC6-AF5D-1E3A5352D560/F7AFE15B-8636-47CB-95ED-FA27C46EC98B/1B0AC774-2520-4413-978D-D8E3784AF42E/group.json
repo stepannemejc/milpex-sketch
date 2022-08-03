@@ -1,0 +1,150 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B0AC774-2520-4413-978D-D8E3784AF42E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 20,
+    "width": 26.14158689360102,
+    "x": 17,
+    "y": 51
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "412174D5-58C0-46F3-A019-9F674C22C752"
+    },
+    {
+      "class": "shapePath",
+      "id": "510D827E-09DA-4850-AFDF-AADCE14A0A72"
+    },
+    {
+      "class": "shapePath",
+      "id": "80852182-8743-4C4A-9AB1-81E5A7CA9CD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "29234AD3-A9EB-4209-8AAA-3ABDFD29F94B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29E674D7-5A55-477B-8E84-39D34EFC33CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "8CB33E5E-E232-4F97-8CE0-F433BFFD7F33"
+    },
+    {
+      "class": "shapePath",
+      "id": "16E47FF7-2AB6-4F53-9E15-CEAFB45C5B5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66E50B9A-81B5-4E2B-B6B1-0E9715C5DE6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53A4D9A1-BA57-4866-AFC5-78E069DAD194"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87A76A69-3EFD-47C6-B42C-EE50ED5BF2B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F72B533-0188-4D2B-8D76-59CA7FD6F054"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D5369CB-FF5F-4EF4-98B8-7BC7FCB68EDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E712B41-95A1-4E5E-8AF8-03091C8E1D95"
+    }
+  ],
+  "name": "Jednobarevna_cerna_varianta",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FB4B1299-F91D-42B3-95A7-B643551E011D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

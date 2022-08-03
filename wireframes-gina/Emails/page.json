@@ -1,0 +1,157 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD0A714E-F3AE-4B67-8796-A4244C08B1D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -593,
+    "guides": [
+    ]
+  },
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "54F58F83-A021-4923-BC07-A7D4A06AEB05"
+    },
+    {
+      "class": "artboard",
+      "id": "B09C0954-44CD-4737-8B6D-F23411442ACC"
+    },
+    {
+      "class": "artboard",
+      "id": "029C0EC8-E00A-4D5C-B3B9-B4AEF136AB5D"
+    },
+    {
+      "class": "artboard",
+      "id": "5694885A-8C76-4E94-8BFC-E61361E4B330"
+    },
+    {
+      "class": "artboard",
+      "id": "26CF5349-288D-40F3-9380-090D36932C37"
+    },
+    {
+      "class": "artboard",
+      "id": "BE84CA81-C7D3-4491-AC88-3697B9F0D723"
+    },
+    {
+      "class": "artboard",
+      "id": "EBDD49CB-3607-45BC-8C56-8F14204B9E84"
+    },
+    {
+      "class": "artboard",
+      "id": "345F40D0-86B7-433E-8855-46AE78A11BB6"
+    },
+    {
+      "class": "artboard",
+      "id": "4C60B074-91BA-42E1-AE82-9A2F27A7239A"
+    },
+    {
+      "class": "artboard",
+      "id": "3E9B7CEA-DA00-455D-93FD-5850DF9F93FB"
+    },
+    {
+      "class": "artboard",
+      "id": "1303EBAA-6174-420A-A207-83B2CDAF44CB"
+    },
+    {
+      "class": "artboard",
+      "id": "58422300-18BA-43BC-9DD6-45199E94B122"
+    },
+    {
+      "class": "artboard",
+      "id": "FCE2D335-4DB6-4D97-9B9E-7CCCCC4484AE"
+    },
+    {
+      "class": "artboard",
+      "id": "14878A4E-AB7D-4631-813E-7CEB06BCC839"
+    }
+  ],
+  "name": "Emails",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F7202750-0204-4260-AACE-63376B9AC359",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -488,
+    "guides": [
+    ]
+  }
+}

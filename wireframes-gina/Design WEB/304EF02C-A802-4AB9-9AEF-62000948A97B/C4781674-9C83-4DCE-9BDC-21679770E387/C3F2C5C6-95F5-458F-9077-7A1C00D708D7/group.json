@@ -1,0 +1,165 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3F2C5C6-95F5-458F-9077-7A1C00D708D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 366.5365853658305,
+    "width": 500,
+    "x": 547,
+    "y": 653.0000000001689
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DFC86131-25EB-41A6-AA9B-CAF5656EE8C9"
+    },
+    {
+      "class": "rectangle",
+      "id": "1D601BE0-06C1-4DEB-BB26-2356765968A4"
+    },
+    {
+      "class": "rectangle",
+      "id": "A898C77C-E3AE-43FD-ABA3-E0F2068E6FAA"
+    },
+    {
+      "class": "text",
+      "id": "A1920FBB-B611-442A-BCB5-EBC26DB03ED9"
+    },
+    {
+      "class": "text",
+      "id": "B6E323D3-5F3E-4476-A202-5FF6152C483A"
+    },
+    {
+      "class": "text",
+      "id": "5484A051-BE38-43F7-87EC-D4DE7687091C"
+    },
+    {
+      "class": "text",
+      "id": "C07C0715-CB22-4852-9089-248EB2A8ACD5"
+    },
+    {
+      "class": "text",
+      "id": "E594D42E-3603-44E4-A02B-0990539B5B72"
+    },
+    {
+      "class": "text",
+      "id": "05963EAA-4BB1-44A4-A671-D0A938DC9990"
+    },
+    {
+      "class": "text",
+      "id": "A062B766-CA0C-44F3-B567-642C9A4F3AE9"
+    },
+    {
+      "class": "text",
+      "id": "12BD038B-5936-44FA-A34C-8F336724EAAA"
+    },
+    {
+      "class": "rectangle",
+      "id": "091B42FD-D52F-4838-AE6A-7E65100FACEA"
+    },
+    {
+      "class": "text",
+      "id": "CE017A89-903E-4B87-ADC6-AB16A34B673F"
+    },
+    {
+      "class": "text",
+      "id": "8CB4B025-F604-4253-83FC-8ABE7CF34DFE"
+    },
+    {
+      "class": "rectangle",
+      "id": "79C04D4C-BCC2-401B-8434-4E13503AFAEF"
+    },
+    {
+      "class": "text",
+      "id": "C22CB093-9A0D-4FA4-B370-55D62A95A3F7"
+    },
+    {
+      "class": "text",
+      "id": "8BDB9756-9FE9-481B-A21D-283ED61B9020"
+    },
+    {
+      "class": "text",
+      "id": "3C0720F8-1898-4E72-8570-A305B6C3D952"
+    },
+    {
+      "class": "text",
+      "id": "6C789149-3E4E-4431-8055-15247E81EA2D"
+    }
+  ],
+  "name": "Dodaci udaje",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "19B4A213-6C62-4BB2-B53E-A5B73D39B165",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

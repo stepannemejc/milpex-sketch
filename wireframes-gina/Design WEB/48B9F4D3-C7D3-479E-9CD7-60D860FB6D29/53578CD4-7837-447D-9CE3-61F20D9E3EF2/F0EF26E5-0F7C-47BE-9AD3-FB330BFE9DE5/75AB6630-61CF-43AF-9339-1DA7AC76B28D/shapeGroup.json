@@ -1,0 +1,256 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75AB6630-61CF-43AF-9339-1DA7AC76B28D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 32.09573852847411,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "279AB1F7-7445-4DFF-977A-EEDA82E08BF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A0CA52F-49A5-410C-AAA9-9CDB651EDEC4"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8A4FD1E-5C0B-4F70-B72C-8C8E9291F8BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "FEABB2A3-62DE-4B1E-95DE-5B71F1A25A47"
+    },
+    {
+      "class": "shapePath",
+      "id": "75258E8C-39ED-4F64-BE22-470C78C29783"
+    },
+    {
+      "class": "shapePath",
+      "id": "012A01F2-7A9A-4229-820A-26DA9D1BCBFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "7AD26379-4A93-4B10-BE71-C077E0645ADA"
+    },
+    {
+      "class": "shapePath",
+      "id": "43C74D5B-989A-4B53-8203-A7E5664C4C83"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3E03F6C-94E5-425D-8531-099C71FAC6B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCD08822-7FB2-4F8D-A4ED-FD7EEFD434AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "952BD25B-9161-47A7-AAD2-CBE87CD3F07D"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F0E8632-E3D5-4DE3-8150-5F645668289D"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4584A64-9ABB-4E53-AB26-613E7A814D34"
+    },
+    {
+      "class": "shapePath",
+      "id": "134C2BF3-1AB2-4966-9266-F4F2C8F38109"
+    },
+    {
+      "class": "shapePath",
+      "id": "36CDE176-F08D-4AF3-9C1E-FB14E300F732"
+    },
+    {
+      "class": "shapePath",
+      "id": "E5445C38-8801-4B99-B70A-DF5955E55097"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4941176470588235,
+          "green": 0,
+          "red": 0.9019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "27FEE2FA-5596-41A8-842A-C5E4044948AA",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4941176470588235,
+          "green": 0,
+          "red": 0.9019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

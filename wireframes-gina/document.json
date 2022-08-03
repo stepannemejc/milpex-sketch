@@ -1,0 +1,693 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "72568347-71C2-44AB-9FF5-63DD4DEE5697",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "5FC8B345-6929-45EE-ACB6-88F730757D46",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0CEAB4C4-AF70-4931-86C0-6034D2D036E6",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "17467A22-8DCA-4ACD-BEC0-7637C090D349",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1850CA12-2100-4DCA-9BB8-16ACAD8C530B",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BoldCondensedItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BoldCondensedItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "190C9A68-E08D-4F37-B786-58F73414A447",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2E8D73D6-3601-4F09-921F-F9711E8085DC",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2F646969-0A6F-406B-ABEF-1E8CB4644D4C",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Condensed.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Condensed"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "37B7DAF3-8ECA-4AC4-8BFC-A2A04BF94F03",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3832EABB-98C1-4138-A4FA-107E6ED5BBFB",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3E00E326-1C79-4235-B4CE-51F1C13C711B",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-SemiBold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "40178C70-F858-403E-B7D2-CD7252B3521C",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "43DA141B-0516-49FE-8B15-528D02EE700C",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "442D9955-E8C7-4680-8CA9-17FB0800B53C",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Black.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5145D929-D445-47BF-B0FB-CEB8CC3A59B9",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5893C420-4450-47B1-ACE6-CB33CAD48A1F",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "59C6B80C-292D-4E14-9E03-59A82BF167BB",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5D2B47A6-1C82-45F0-BA41-949CE7A1B4DA",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5E271190-98B5-412E-8D70-CDCF6891D938",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "63E07FBF-0FAD-4F50-8A28-E653C4572407",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6D8A6076-19AA-43B2-B514-86FB1973146A",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-ExtraBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7137E8F5-D32D-4252-9A04-64032A39CAB2",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "75C42B4F-5F87-478B-BF13-95BBD386D96F",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "76DB8CBB-6169-4B5C-A74D-64689FA6BAF0",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7B0FB56B-00AA-40D4-AB1B-E88F80D4E1A3",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Italic.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7DE8F0C1-915C-4E2C-A6BE-EE3ECAB1C61A",
+      "fontFamilyName": "Lora",
+      "fontFileName": "Lora-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lora-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7F2B35F1-08AC-4449-A78E-3609B8E52142",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BoldCondensed.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BoldCondensed"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7FD4A85A-1997-47D9-9BEB-CCF642CB67FE",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "82C2C43A-868A-41E5-A478-6AFC87D4FCAE",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8A4CD167-E1C6-4BB2-B09E-D4849ADD6C41",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8B6EC995-A5E6-418C-93DB-4C4C730500FA",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-Light.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8B926889-25DF-46D7-8ABE-0993D17A0B25",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "90CE1392-D7FD-47AB-A6B1-78A9FA7BE455",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "94AA0D3D-559C-46F1-AA03-7F9C485BAA49",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A18D5113-4438-4611-A694-2A5E56AE310B",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Roboto-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A4680A91-798F-4D13-8E8F-12817397AAA0",
+      "fontFamilyName": "Lora",
+      "fontFileName": "Lora-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lora-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AAD73EDD-0610-4641-B6F9-01A29A54F5FD",
+      "fontFamilyName": "Lora",
+      "fontFileName": "Lora-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lora-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C2EA33A2-605C-4F5D-B6AA-A91F69114852",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C394C560-4E8B-4735-815A-C910C3E72E29",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C50E936B-E5A0-4E7A-B5A7-076A7B2ED656",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C54DF434-A33A-41A3-B1E7-04A8CE5F2347",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C94550E8-EAB9-4FDD-9884-CB2F4B211AFF",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-SemiBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D180BA95-D5B9-4F1E-966C-921CD35ABA68",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-CondensedItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-CondensedItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D21E1B42-2723-4041-9EE4-35C9700EE34D",
+      "fontFamilyName": "Lora",
+      "fontFileName": "Lora-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lora-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D2A4FE9D-F78A-4F13-A030-173534F7C01A",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-Italic.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DE87A082-34B9-4F43-B269-43602DCB8BB7",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E0C9032C-430D-4686-A8D2-6206299E4F36",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E46C4572-7694-467C-8ACD-FD8935678EAC",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PlusJakartaSans-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E7E2EA79-4183-48B5-82F8-19EE772D8DB7",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E7E89813-328C-4A44-9793-A75275F50FEC",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EDD9EB3E-4E4F-4859-B077-A281B6C7E5FF",
+      "fontFamilyName": "Plus Jakarta Sans",
+      "fontFileName": "PlusJakartaSans-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "PlusJakartaSans-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F49B9827-9B46-4E55-BFAE-705B43E9AECC",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F52D1827-725C-4747-BCA7-5ED1D01B16B7",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F5AC1ED4-D9DF-4269-8551-6F348067B154",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Thin"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "0D8884F6-8FC7-4E87-9A34-71E2A7AEAFDC",
+      "libraryID": "C45BEAF4-759C-4026-A15D-82323DA3E7D3",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "690800FF-4C2D-4551-9993-68A84ED3F4EB",
+        "name": "Icon/Actionable/1. pf-global--icon--Color--light (Default)",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "E03CA346-698B-41D6-BB38-3B9CC973E50B",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4509803921568628,
+                "green": 0.4313725490196079,
+                "red": 0.4156862745098039
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5BB7FD32-0BA1-43B2-B25E-91CB3E7FAFD5",
+      "sourceLibraryName": "PatternFly",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "CBF0D1E6-8257-4713-9BD8-A7F7D666588E",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "89",
+    "build": 147688,
+    "version": 143
+  },
+  "pages": [
+    "Design WEB",
+    "Invoice",
+    "Emails",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "E12D2BC6-DFF5-4A4D-BB9E-C4171C922AFB",
+    "objects": [
+    ]
+  }
+}

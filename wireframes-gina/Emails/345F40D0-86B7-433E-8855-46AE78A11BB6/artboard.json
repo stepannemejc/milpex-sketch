@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "green": 0.9803921568627451,
+    "red": 0.984313725490196
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "345F40D0-86B7-433E-8855-46AE78A11BB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 620,
+    "width": 800,
+    "x": 2005,
+    "y": -310
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "951BC635-97EC-4F44-A60E-89BC0C8C7B25"
+    },
+    {
+      "class": "rectangle",
+      "id": "93618A87-05BE-48C7-AF2C-B452F8A36E55"
+    },
+    {
+      "class": "rectangle",
+      "id": "55DDF646-FD62-46F7-8861-E2A91A6C2115"
+    },
+    {
+      "class": "text",
+      "id": "23B36574-0872-4C3E-87E5-EF7475D7A845"
+    },
+    {
+      "class": "text",
+      "id": "B80189BF-0CB6-4F8D-B6C2-E3CE01DF966D"
+    },
+    {
+      "class": "rectangle",
+      "id": "27AAF26A-66E8-44C9-81CF-36F4061F30E7"
+    },
+    {
+      "class": "group",
+      "id": "51E141F1-475F-45F5-BD3B-78A6919E8E8E"
+    },
+    {
+      "class": "text",
+      "id": "B6E62C21-BEF9-48AE-A7D1-62DE70F1153E"
+    },
+    {
+      "class": "text",
+      "id": "C8323C12-B3EB-4EAD-AD74-E0698BB1F3EE"
+    },
+    {
+      "class": "text",
+      "id": "6C642775-D5D1-49C4-B206-765014493BAD"
+    }
+  ],
+  "name": "Card payment FAILED",
+  "nameIsFixed": true,
+  "overlayBackgroundInteraction": 0,
+  "presentationStyle": 0,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "CD214D3F-88E6-4D04-89BC-5D8CFBF9AB5F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
