@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "height": 20,
     "width": 15.81661360785826,
-    "x": 0.00008360104747986486,
+    "x": 0.00008360104747986488,
     "y": 0
   },
   "hasClippingMask": false,
@@ -27,6 +27,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Path",

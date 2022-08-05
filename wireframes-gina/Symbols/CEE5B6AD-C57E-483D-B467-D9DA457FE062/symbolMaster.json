@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -61,6 +62,7 @@
   ],
   "name": "doruceni do druheho dne",
   "nameIsFixed": true,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -73,8 +75,7 @@
       "overrideName": "E29ACAE6-CB41-4330-9A46-DD36DE885647_stringValue"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -161,6 +162,7 @@
   ],
   "name": "Header-Dámské Dark",
   "nameIsFixed": true,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -278,8 +280,7 @@
       "overrideName": "2B0376EB-8FBD-4DD3-B2FF-E1C231995DB7_stringValue"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -177,6 +178,7 @@
   ],
   "name": "Header-Dámské active search line",
   "nameIsFixed": true,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -324,8 +326,7 @@
       "overrideName": "A776C32C-064D-42BF-B86A-05F77DBC26BF_stringValue"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

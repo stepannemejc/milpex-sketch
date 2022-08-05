@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -101,6 +102,7 @@
   ],
   "name": "Header-Dámské mobile",
   "nameIsFixed": true,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -123,8 +125,7 @@
       "overrideName": "71B8EC07-5C83-4D0A-8BB3-D69051C10347_stringValue"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

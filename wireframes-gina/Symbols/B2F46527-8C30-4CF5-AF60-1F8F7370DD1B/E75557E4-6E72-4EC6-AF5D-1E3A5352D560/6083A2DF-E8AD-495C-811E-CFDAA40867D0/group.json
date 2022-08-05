@@ -29,8 +29,9 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",

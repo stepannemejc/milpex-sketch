@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -63,10 +64,6 @@
       "id": "3900A24A-264A-41B9-B50B-C7B95BCB277A"
     },
     {
-      "class": "group",
-      "id": "E851E3B0-5806-4A8F-B696-B108FCFA4648"
-    },
-    {
       "class": "text",
       "id": "916E3F91-0624-4D0D-A00E-535AD1693D40"
     },
@@ -81,10 +78,15 @@
     {
       "class": "text",
       "id": "06A57EE0-941B-420F-BD47-4FB87914E4AD"
+    },
+    {
+      "class": "group",
+      "id": "79E4B99F-B2FD-463D-9D7D-F37D7B2DA21F"
     }
   ],
   "name": "hp_review_item",
   "nameIsFixed": false,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -95,15 +97,9 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "916E3F91-0624-4D0D-A00E-535AD1693D40_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2E0B365D-EB3A-4984-851F-A5F356829AF7_image"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

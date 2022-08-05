@@ -19,7 +19,7 @@
     "height": 13.92880021715503,
     "width": 22.37600162566798,
     "x": 0,
-    "y": 0.00003295272930153329
+    "y": 0.0000329527293015333
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -27,6 +27,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Fill 1",

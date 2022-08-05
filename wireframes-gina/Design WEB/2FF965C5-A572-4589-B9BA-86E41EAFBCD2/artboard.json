@@ -54,6 +54,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -108,8 +109,8 @@
   ],
   "name": "Return products list",
   "nameIsFixed": true,
-  "presetDictionary": {
-  },
+  "overlayBackgroundInteraction": 0,
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

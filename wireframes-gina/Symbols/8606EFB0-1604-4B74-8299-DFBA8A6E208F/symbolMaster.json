@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -65,6 +66,7 @@
   ],
   "name": "input/select",
   "nameIsFixed": false,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -87,8 +89,7 @@
       "overrideName": "2A1BA550-AB5D-4C0E-BE5C-654BC514CC1D_stringValue"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

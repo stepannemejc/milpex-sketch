@@ -512,7 +512,7 @@
       "do_objectID": "EDD9EB3E-4E4F-4859-B077-A281B6C7E5FF",
       "fontFamilyName": "Plus Jakarta Sans",
       "fontFileName": "PlusJakartaSans-MediumItalic.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "PlusJakartaSans-MediumItalic"
       ]
@@ -674,9 +674,9 @@
     ]
   },
   "meta": {
-    "appVersion": "81.1",
-    "build": 135647,
-    "version": 136
+    "appVersion": "89",
+    "build": 147688,
+    "version": 143
   },
   "pages": [
     "Design WEB",

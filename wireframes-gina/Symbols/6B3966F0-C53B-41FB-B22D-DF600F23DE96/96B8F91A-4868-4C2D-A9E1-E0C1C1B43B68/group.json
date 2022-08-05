@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "2E0B365D-EB3A-4984-851F-A5F356829AF7",
+  "do_objectID": "96B8F91A-4868-4C2D-A9E1-E0C1C1B43B68",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,30 +12,50 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 94,
-    "width": 75.22865853658537,
-    "x": -1.945121951219789,
-    "y": -11
+    "constrainProportions": false,
+    "height": 38,
+    "width": 336.5,
+    "x": 166,
+    "y": 212
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/896051ae6faecf7e13dbce04e496028063f69044.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bitmap",
-  "nameIsFixed": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "088E4C58-8331-4549-B13B-52A79856DA1C"
+    },
+    {
+      "class": "text",
+      "id": "869B54AC-8A38-4E95-A18D-745118D9CFBD"
+    },
+    {
+      "class": "text",
+      "id": "06F4607C-06AC-498F-9DB2-08EBD49B8627"
+    },
+    {
+      "class": "rectangle",
+      "id": "6DF8396D-A5FE-4BE9-8B37-16E08BE925F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "B777751A-34BC-4C61-ACB2-FF7E01579FC1"
+    }
+  ],
+  "name": "Size - rating sumup Copy 3",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -75,7 +94,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "09009DA1-2AF8-42EC-A89D-053D375D85EB",
+    "do_objectID": "85C26669-F9BC-4237-9CCB-38ABE6A89F58",
     "endMarkerType": 0,
     "fills": [
     ],

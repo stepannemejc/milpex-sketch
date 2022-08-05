@@ -47,6 +47,7 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
+  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -61,6 +62,7 @@
   ],
   "name": "input/text/lg",
   "nameIsFixed": false,
+  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -78,8 +80,7 @@
       "overrideName": "797CB89A-4E9C-4DA8-8EC0-68F45F19E9AF_layerStyle"
     }
   ],
-  "presetDictionary": {
-  },
+  "presentationStyle": 0,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
