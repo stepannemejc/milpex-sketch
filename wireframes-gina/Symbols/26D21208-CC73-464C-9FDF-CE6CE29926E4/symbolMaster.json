@@ -47,7 +47,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -134,7 +133,6 @@
   ],
   "name": "Footer-mobile unwrapped",
   "nameIsFixed": true,
-  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -232,7 +230,8 @@
       "overrideName": "EF183569-F59B-490B-8ECD-C7B62150585A_stringValue"
     }
   ],
-  "presentationStyle": 0,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

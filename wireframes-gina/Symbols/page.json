@@ -35,7 +35,6 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
@@ -190,6 +189,14 @@
     {
       "class": "symbolMaster",
       "id": "3F3E6BC0-EBB9-4FA7-AF98-1C993E450754"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "98740031-FFDF-4837-8BA1-3B3146A23487"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B1E66828-3DB6-48CD-8D0F-CAEBA3ECBB4C"
     },
     {
       "class": "symbolMaster",

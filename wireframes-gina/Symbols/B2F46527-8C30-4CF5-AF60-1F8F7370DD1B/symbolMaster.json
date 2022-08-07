@@ -47,7 +47,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -58,7 +57,6 @@
   ],
   "name": "Footer",
   "nameIsFixed": false,
-  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -256,7 +254,8 @@
       "overrideName": "541B6FE4-A448-46D8-BAC6-3568A9FCF072_stringValue"
     }
   ],
-  "presentationStyle": 0,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

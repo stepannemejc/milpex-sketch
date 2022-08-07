@@ -47,7 +47,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -62,7 +61,6 @@
   ],
   "name": "tisice odbernych mist",
   "nameIsFixed": true,
-  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -75,7 +73,8 @@
       "overrideName": "3A2F0C2D-AC41-4DC2-B62B-86671E1947CA_stringValue"
     }
   ],
-  "presentationStyle": 0,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -47,7 +47,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -86,7 +85,6 @@
   ],
   "name": "hp_review_item",
   "nameIsFixed": false,
-  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -99,7 +97,8 @@
       "overrideName": "916E3F91-0624-4D0D-A00E-535AD1693D40_stringValue"
     }
   ],
-  "presentationStyle": 0,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

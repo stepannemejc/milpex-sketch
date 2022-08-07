@@ -47,7 +47,6 @@
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
-  "isTemplate": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -158,7 +157,6 @@
   ],
   "name": "Header-Dámské Copy",
   "nameIsFixed": false,
-  "overlayBackgroundInteraction": 0,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -271,7 +269,8 @@
       "overrideName": "B7D6F187-F72E-4916-95FA-77626C5FE493_stringValue"
     }
   ],
-  "presentationStyle": 0,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
