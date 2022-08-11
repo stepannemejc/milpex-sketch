@@ -129,6 +129,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "41756193-026A-48CC-BED6-79F9F32D1F33",
+      "fontFamilyName": "Notera Personal Use Only",
+      "fontFileName": "Notera.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "NoteraPersonalUseOnly"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "43DA141B-0516-49FE-8B15-528D02EE700C",
       "fontFamilyName": "Poppins",
       "fontFileName": "Poppins-Thin.otf",
@@ -195,6 +205,16 @@
       "options": 0,
       "postscriptNames": [
         "Poppins-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "62024B2B-F353-4F53-86F2-83BD3F3E0737",
+      "fontFamilyName": "Amostely Signature",
+      "fontFileName": "AmostelySignature.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "AmostelySignatureRegular"
       ]
     },
     {

@@ -512,11 +512,23 @@
     },
     {
       "class": "artboard",
+      "id": "8815508F-E7BD-4654-AC5F-B207F412E14F"
+    },
+    {
+      "class": "artboard",
       "id": "9D2F0CD7-22B8-47A6-83FB-061FA2844C6A"
     },
     {
       "class": "artboard",
       "id": "77B27329-9878-45D8-9441-14C8E55321C5"
+    },
+    {
+      "class": "text",
+      "id": "C5038DED-81D1-46F4-A5E9-A36D7579C78A"
+    },
+    {
+      "class": "group",
+      "id": "B6071CA6-EE25-4D95-866B-05E30FC22B50"
     }
   ],
   "name": "Design WEB",

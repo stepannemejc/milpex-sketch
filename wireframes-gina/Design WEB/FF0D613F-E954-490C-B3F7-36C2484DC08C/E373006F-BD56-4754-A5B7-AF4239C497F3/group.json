@@ -24,9 +24,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 280,
-    "width": 280.096463022508,
-    "x": 1399.569131832798,
+    "height": 279.9035701985995,
+    "width": 280,
+    "x": 1400,
     "y": 255
   },
   "groupLayout": {
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
